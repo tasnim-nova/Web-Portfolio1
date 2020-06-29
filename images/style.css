@@ -1,0 +1,32 @@
+h1{
+    font-size: 40px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 5px;
+    padding: 10px;
+    padding-left: 50px;
+
+}
+h3, p{
+    font-size: x-large;
+    font-family: sans-serif;
+}
+.button{
+    background-color: coral;
+    color: cornsilk;
+    height: 40px;
+    font-size: 25px;
+    border-radius: 9px;
+}
+.name-highlight{
+    color: orange;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+
